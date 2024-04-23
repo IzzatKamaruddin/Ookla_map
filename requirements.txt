@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-pandas == 2.2.2
-folium ==  0.16.0
-streamlit == 1.33.0
-streamlit_folium == 0.19.1
+pandas==2.2.2
+geopandas==1.0.0.a1
+folium==0.16.0
+streamlit==1.33.0
+streamlit_folium==0.19.1
+GDAL==3.8.5
+fiona==1.9.6
+shapely==2.0.4

@@ -1,10 +1,11 @@
-import geopandas as gpd
 import folium
 from folium import Choropleth
 import streamlit as st
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
+import geopandas as gpd
+
 
 
 st.set_page_config(layout="wide")
